@@ -1,6 +1,6 @@
 ## Sobre mim
 - 🎓 Estudando Sistemas de Informação na UNISUL.
-- 🌱 Aprendendo mais sobre Análise de Dados e API's Rest.
+- 🌱 No momento estudando HTML, CSS e JavaScript para desenvolvimento web.
 
 ## Minhas Skills
 
